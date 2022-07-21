@@ -9,7 +9,8 @@ Guess my number is a game that I created with a little bit of extra time on my h
 * You should see something like this.
 
 
-![Image](GIT.png)
+<img src="GIT.png" alt="Git Pic 1" width="250" />
+
 
 * If you dont see a Git version you must download Git from [ HERE ](https://git-scm.com/downloads)
 
@@ -23,9 +24,9 @@ Guess my number is a game that I created with a little bit of extra time on my h
 * If the game doesnt automatically start go to `http://localhost:3000/` in your browser.
 * You should see the the starting game screen. It looks like this... 
 
-![Image](GAME.png)
+<img src="GAME.png" alt="Game Pic 1" width="500" />
 
-***
+
 
 
  ## Installation without Git ( ZIP ) 
@@ -37,7 +38,7 @@ Guess my number is a game that I created with a little bit of extra time on my h
 
 * Save the file to your local computer and extract the data.
 
-*Once saved you can open the file in any code editor and use `start index.html` in the terminal. The result witll be the same as the above game loading.
+* Once saved you can open the file in any code editor and use `start index.html` in the terminal. The result witll be the same as the above game photo.
 
 
 ## 
