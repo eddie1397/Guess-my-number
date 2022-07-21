@@ -8,7 +8,6 @@ Guess my number is a game that I created with a little bit of extra time on my h
 * To check if you have Git installed use `git -v` in the terminal.
 * You should see something like this.
 
-
 <img src="GIT.png" alt="Git Pic 1" width="250" />
 
 
