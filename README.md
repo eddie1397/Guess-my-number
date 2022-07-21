@@ -1,4 +1,4 @@
-Hello, this is my Guess My Number Game:
+# Gues My Number
 
 Read Me Content Coming Soon!!
 💙💙💙
