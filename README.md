@@ -10,14 +10,14 @@ Guess my number is a game that I created with a little bit of extra time on my h
 * To check if you have Git installed use `git -v` in the terminal.
 * You should see something like this.
 
-<img src="GIT.png" alt="Git Pic 1" width="250" />
+<img src="images/GIT.png" alt="Git Pic 1" width="250" />
 
 
 * If you dont see a Git version, download Git [ HERE ](https://git-scm.com/downloads)
 
 * Once you have Git installed you want to clone the site down to your local repository using the command `git clone (ssh or https key)`
 
-<img src="GIT2.png" alt="Git Pic 3" width="300" />
+<img src="images/GIT2.png" alt="Git Pic 3" width="300" />
 
 
 
@@ -25,7 +25,7 @@ Guess my number is a game that I created with a little bit of extra time on my h
 * If the game doesnt automatically start, go to `http://localhost:3000/` in your browser.
 * You should see the the starting game screen. It looks like this... 
 
-<img src="GAME.png" alt="Game Pic 1" width="500" />
+<img src="images/GAME.png" alt="Game Pic 1" width="500" />
 
 
 
@@ -35,7 +35,7 @@ Guess my number is a game that I created with a little bit of extra time on my h
 * First you're going to want to select Download ZIP in the drop down where you clone the code.
 
 
-<img src="GIT2.png" alt="Git Pic 3" width="300" />
+<img src="images/GIT2.png" alt="Git Pic 3" width="300" />
 
 * Save the file to your local computer and extract the data.
 
@@ -44,9 +44,9 @@ Guess my number is a game that I created with a little bit of extra time on my h
 ***
 ## Visuals:
 
-<img src="GAME.png" alt="Game Pic 1" width="500" />
-<img src="GAME2.png" alt="Game Pic 2" width="500" />
-<img src="GAME3.png" alt="Game Pic 3" width="500" />
+<img src="images/GAME.png" alt="Game Pic 1" width="500" />
+<img src="images/GAME2.png" alt="Game Pic 2" width="500" />
+<img src="images/GAME3.png" alt="Game Pic 3" width="500" />
 
 ***
 
