@@ -32,10 +32,10 @@ Guess my number is a game that I created with a little bit of extra time on my h
 
  ## Installation without Git ( ZIP ) 
 *(Please use this method if you DO NOT have Git installed on your local computer.)*
-* First youre going to want to select Download ZIP in the drop down where you clone the code.
+* First you're going to want to select Download ZIP in the drop down where you clone the code.
 
 
-<img src="GIT3.png" alt="Git Pic 3" width="500" />
+<img src="GIT2.png" alt="Git Pic 3" width="500" />
 
 * Save the file to your local computer and extract the data.
 
@@ -54,7 +54,9 @@ Guess my number is a game that I created with a little bit of extra time on my h
 
 Guess my number is a game that I created with a little bit of extra time on my hands. In this game, you do exactly what the title is saying... guessing. You will have 20 lives that will be represented by your score in the bottom right-hand corner. After every guess, you will be told whether the number was too high or too low. Continue guessing until you get the right number. Be careful though, if your score reaches 0 you will have to start completely over! If you ever want to start the game again just press the again button on the top left corner. Have FUN and Happy guessing!
 
-* If you would like to see a video fo the game being played click [ HERE! ](https://user-images.githubusercontent.com/24789142/180472117-28d38963-3f56-4175-8fbc-54c41f805b9f.mp4)
+* If you would like to see a VIDEO fo the game being played click [ HERE! ](https://user-images.githubusercontent.com/24789142/180472117-28d38963-3f56-4175-8fbc-54c41f805b9f.mp4)
+
+
 
 
 
