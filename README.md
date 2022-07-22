@@ -1,7 +1,8 @@
 # Guess My Number
 
 ## Description:
-Guess my number is a game that I created with a little bit of extra time on my hands. In this game, you do exactly what the title is saying... guessing. You will have 20 lives that will be represented by your score in the bottom right-hand corner. After every guess, you will be told whether the number was too high or too low. Continue guessing until you get the right number. Be careful though, if your score reaches 0 you will have to start completely over! If you ever want to start the game again just press the again button on the top left corner. Have FUN and Happy guessing! 
+Guess my number is a game that I created with a little bit of extra time on my hands. In this game, you do exactly what the title is saying... guessing. You will have 20 lives to guess correcly as many times as you can. Have FUN and Happy guessing! 
+
 ***
 
 ## Installation w/ Git  👨‍💻
@@ -47,8 +48,13 @@ Guess my number is a game that I created with a little bit of extra time on my h
 <img src="GAME2.png" alt="Game Pic 2" width="500" />
 <img src="GAME3.png" alt="Game Pic 3" width="500" />
 
+***
 
-##
+## Usage:
+
+Guess my number is a game that I created with a little bit of extra time on my hands. In this game, you do exactly what the title is saying... guessing. You will have 20 lives that will be represented by your score in the bottom right-hand corner. After every guess, you will be told whether the number was too high or too low. Continue guessing until you get the right number. Be careful though, if your score reaches 0 you will have to start completely over! If you ever want to start the game again just press the again button on the top left corner. Have FUN and Happy guessing!
+
+
 
 
 
