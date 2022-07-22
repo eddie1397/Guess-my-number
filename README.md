@@ -59,7 +59,9 @@ Guess my number is a game that I created with a little bit of extra time on my h
 ***
 ## Support 
 
-* If you need any  
+* If you have any problems with this application please send an email to <Eddiebinion2@gmail.com>.
+
+***
 
 
 
