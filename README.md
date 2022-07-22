@@ -11,16 +11,16 @@ Guess my number is a game that I created with a little bit of extra time on my h
 <img src="GIT.png" alt="Git Pic 1" width="250" />
 
 
-* If you dont see a Git version you must download Git from [ HERE ](https://git-scm.com/downloads)
+* If you dont see a Git version, download Git [ HERE ](https://git-scm.com/downloads)
 
 * Once you have Git installed you want to clone the site down to your local repository using the command `git clone (ssh or https key)`
 
-![Image](GIT3.png)
+<img src="GIT3.png" alt="Git Pic 3" width="500" />
 
 
 
-* Once the project is cloned down just use `start index.html` in the Guess My Number folder
-* If the game doesnt automatically start go to `http://localhost:3000/` in your browser.
+* Once the project is cloned down just use `start index.html` while in the Guess My Number folder
+* If the game doesnt automatically start, go to `http://localhost:3000/` in your browser.
 * You should see the the starting game screen. It looks like this... 
 
 <img src="GAME.png" alt="Game Pic 1" width="500" />
@@ -33,11 +33,11 @@ Guess my number is a game that I created with a little bit of extra time on my h
 * First youre going to want to select Download ZIP in the drop down where you clone the code.
 
 
-![Image](GIT3.png)
+<img src="GIT3.png" alt="Git Pic 3" width="500" />
 
 * Save the file to your local computer and extract the data.
 
-* Once saved you can open the file in any code editor and use `start index.html` in the terminal. The result witll be the same as the above game photo.
+* Once saved you can open the file in any code editor and use `start index.html` in the terminal. The result will be the same as the above game photo.
 
 
 ## 
